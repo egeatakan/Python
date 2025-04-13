@@ -1,0 +1,30 @@
+101,Lightning,attack,1,5
+102,Shield,defense,1,7
+103,Fireball,attack,3,10
+104,Healing,support,2,4
+105,Ice Storm,attack,6,12
+106,Invisibility,support,5,3
+107,Protection,defense,4,6
+108,Magic Dart,attack,1,3
+109,Fairy Wings,support,9,2
+110,Fire Breath,attack,3,8
+111,Earthquake,attack,6,15
+112,Stone Wall,defense,8,9
+113,Illusion,support,7,5
+114,Meteor Shower,attack,10,18
+115,Blessing,support,12,6
+116,Magic Armor,defense,11,8
+117,Disintegration,attack,16,20
+118,Word of Power,support,17,7
+119,Flight,support,19,4
+120,Shockwave,attack,14,11
+121,Petrification,attack,20,16
+122,Teleportation,support,18,9
+123,Elemental Summon,attack,4,7
+124,Ray of Light,attack,8,6
+125,Transformation,support,15,8
+126,Dark Lightning,attack,13,9
+127,Mind Control,support,20,10
+128,Magic Barrier,defense,16,12
+129,Arcane Explosion,attack,17,14
+130,Resurrection,support,1,15
